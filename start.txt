@@ -1,2 +1,5 @@
 "Test Git quick start demo" 
 Test Git quick start demo 
+
+modify some lines of code in start.txt file
+this is to test git commit -am
