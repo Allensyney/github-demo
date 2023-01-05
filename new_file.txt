@@ -1,0 +1,3 @@
+new lines in the new file
+more lines changed in the file
+
