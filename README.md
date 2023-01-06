@@ -11,3 +11,5 @@ This project is for beginners to learn how to use git and github.
 Any kind of contribute is welcome!
 
 # Purpose of project
+
+###ALL RIGHTS RESERVED
