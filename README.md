@@ -10,4 +10,4 @@ This project is for beginners to learn how to use git and github.
 
 Any kind of contribute is welcome!
 
-# Perpose of project
+# Purpose of project
