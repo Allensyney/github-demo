@@ -1,4 +1,4 @@
-# github-demo
+# GIT TUTORIALS FROM JSON TYLOR
 
 This is a repository for git practice
 
