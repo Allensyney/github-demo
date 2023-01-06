@@ -4,5 +4,5 @@ def say_hello(name='you'):
 
 if __name__=="__main__":
     print(say_hello('xianshou123'))
-
+    print(say_hello())
     
