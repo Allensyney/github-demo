@@ -1,6 +1,8 @@
 # GIT TUTORIALS FROM JSON TYLOR
 
 This is a repository for git practice
+#ABOUT ME
+I have worked as a python developer for over 20 years.
 
 # What's this project for
 
