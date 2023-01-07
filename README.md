@@ -1,6 +1,7 @@
 # GIT TUTORIALS FROM JSON TYLOR
 
 This is a repository for git practice
+Now I'm learning Rebasing!
 #ABOUT ME
 I have worked as a python developer for over 20 years.
 
