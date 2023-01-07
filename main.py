@@ -6,6 +6,8 @@ def say_hello(name='you'):
 def my_add(a,b):
     '''This is a simple addition function that add two numbers'''
     return a+b
+def test_fstring(name,age):
+    print(f'name:{name},age:{age}')
 
 if __name__=="__main__":
     print(say_hello('xianshou123'))
