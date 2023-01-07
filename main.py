@@ -11,6 +11,9 @@ def test_fstring(name,age):
 
 def subtract_test(a,b):
     return a-b
+def stash_tess():
+    print('This is a test for stash include untracked files')
+
 
 if __name__=="__main__":
     print(say_hello('xianshou123'))
