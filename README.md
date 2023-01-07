@@ -2,6 +2,7 @@
 
 This is a repository for git practice
 Now I'm learning Rebasing!
+I feel rabasing is confusing at first.
 #ABOUT ME
 I have worked as a python developer for over 20 years.
 
