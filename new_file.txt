@@ -1,3 +1,6 @@
 new lines in the new file
 more lines changed in the file
+set stash code
+
+add more infomation for after stash applied
 
