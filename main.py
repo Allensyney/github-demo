@@ -9,6 +9,9 @@ def my_add(a,b):
 def test_fstring(name,age):
     print(f'name:{name},age:{age}')
 
+def subtract_test(a,b):
+    return a-b
+
 if __name__=="__main__":
     print(say_hello('xianshou123'))
     print(say_hello())
