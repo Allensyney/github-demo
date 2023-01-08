@@ -4,3 +4,4 @@ set stash code
 
 add more infomation for after stash applied
 transfer stash changes to new branch
+add some lines to test git tag v1.2 -m "tag message"
