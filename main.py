@@ -18,4 +18,4 @@ def stash_tess():
 if __name__=="__main__":
     print(say_hello('xianshou123'))
     print(say_hello())
-    
+    print(stash_tess)    

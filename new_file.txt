@@ -3,4 +3,4 @@ more lines changed in the file
 set stash code
 
 add more infomation for after stash applied
-
+transfer stash changes to new branch
